@@ -15,3 +15,5 @@ I architect and deliver enterprise-grade technology solutions that solve complex
 Enterprise technology leader with 15+ years bridging business strategy and technical execution. I specialize in scalable enterprise software, AI solutions, and scaling engineering teams. My sweet spot is transforming complex business requirements into elegant technical architectures while leading diverse teams from concept to delivery.
 
 **Core Focus:** Microservices • Scalable Enterprise Architectures • AI Agents • Multi-cloud • eCommerce
+
+[LinkedIn ](https://www.linkedin.com/in/kmkonstantinov/)
