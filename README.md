@@ -3,7 +3,7 @@
 ## 🚀 Enterprise Architect | Distributed Systems | AI Agents | Microservices
 
 [LinkedIn](https://www.linkedin.com/in/kmkonstantinov/) | 
-[My Blog | More about my work](https://www.konstantinov.io)
+[My Blog](https://www.konstantinov.io)
 
 
 I architect and deliver enterprise-grade technology solutions that solve complex business challenges. My expertise spans distributed enterprise software, microservices architectures, AI agents, and scalable cloud-native systems, with deep experience in eCommerce platforms. As an early adopter of AI technologies, I bridge the gap between cutting-edge innovation and practical business implementation.
