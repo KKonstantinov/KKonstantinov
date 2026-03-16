@@ -1,21 +1,22 @@
-## Hi there 👋
-
-## 🚀 Enterprise Architect | Distributed Systems | AI Agents | Microservices
-
-[LinkedIn](https://www.linkedin.com/in/kmkonstantinov/) | 
-[My Blog](https://www.konstantinov.io)
-
-
-I architect and deliver enterprise-grade technology solutions that solve complex business challenges. My expertise spans distributed enterprise software, microservices architectures, AI agents, and scalable cloud-native systems, with deep experience in eCommerce platforms. As an early adopter of AI technologies, I bridge the gap between cutting-edge innovation and practical business implementation.
-
-### 🔭 What I'm working on
-- **Microservices** architectures for scalable systems
-- **AI Agents** and conversational AI implementations  
-- **Scalable** enterprise / distributed software solutions
-- **Composable Commerce** solutions using MACH (Microservices, API-first, Cloud-Native, Headless) architectures
-
-
-### 💡 Background Summary
-Enterprise technology leader with 15+ years bridging business strategy and technical execution. I specialize in scalable enterprise software, AI solutions, and scaling engineering teams. My sweet spot is transforming complex business requirements into elegant technical architectures while leading diverse teams from concept to delivery.
-
-**Core Focus:** Microservices • Scalable Enterprise Architectures • AI Agents • Multi-cloud • eCommerce
+# Konstantin Konstantinov
+ 
+## 🚀 Enterprise Architect | MCP Maintainer | AI Agents | Distributed Systems
+ 
+Enterprise architect and maintainer of the [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk). 20+ years in enterprise software, from solo builds to 45-engineer delivery organisations. Based in Sofia and London.
+ 
+[konstantinov.io](https://www.konstantinov.io) | [LinkedIn](https://www.linkedin.com/in/kmkonstantinov/)
+ 
+## 🔭 What I'm working on
+ 
+- **MCP TypeScript SDK** - maintaining the official SDK, shipping production patterns for tool orchestration, token budgeting, and agent governance
+- **Agentic AI architecture** - designing enterprise-grade AI agent systems with MCP, structured tool discovery, and observability
+- **Enterprise architecture** - monolith-to-microservices migrations, domain-driven design, event-driven systems
+- **Composable commerce** - legacy-to-headless re-platforms with commercetools, Contentful, and MACH stacks
+ 
+## 💡 Background
+ 
+- 20+ years in enterprise software
+- Former CTO of a 45-engineer delivery organisation (8+ enterprise implementations)
+- Former technical manager across four engineering teams (40+ engineers)
+- Focus: AI agents, distributed systems, composable commerce, scaling delivery organisations
+ 
